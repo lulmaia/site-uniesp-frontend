@@ -1,4 +1,3 @@
-````markdown
 # 🎓 UNIESP - Portal Institucional
 
 <div align="center">
