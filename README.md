@@ -101,34 +101,14 @@ src/
 
 ---
 
-## 💡 Dicas para Desenvolvimento
+## 💡 Dicas para quem for copiar esse código (ou só dar uma espiada)
 
 * Configure seu editor para formatar automaticamente com Prettier ao salvar
 * Habilite o ESLint para receber feedback imediato sobre problemas de estilo e bugs
 * Utilize componentes funcionais e Hooks para manter o código moderno e limpo
 * Centralize chamadas API com Axios para facilitar manutenção
-
----
-
-## 🤝 Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature:
-
-   ```bash
-   git checkout -b feature/nome-da-feature
-   ```
-3. Faça commits claros e objetivos:
-
-   ```bash
-   git commit -m "Descrição da feature"
-   ```
-4. Envie sua branch para o repositório remoto:
-
-   ```bash
-   git push origin feature/nome-da-feature
-   ```
-5. Abra um Pull Request e aguarde revisão
+* Padronize commits: Use mensagens claras e padronizadas para facilitar o histórico e a colaboração.
+* Documentação: Atualize o README e comentários no código sempre que adicionar funcionalidades ou modificar comportamento.
 
 ---
 
