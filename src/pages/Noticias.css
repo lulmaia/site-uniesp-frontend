@@ -1,0 +1,12 @@
+.noticia-card {
+    transition: transform 0.3s ease;
+}
+
+.noticia-card:hover {
+    transform: translateY(-5px);
+}
+
+.ler-mais-btn {
+    color: #002F6C;
+    font-weight: 600;
+}
