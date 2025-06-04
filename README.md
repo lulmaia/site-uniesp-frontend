@@ -135,4 +135,3 @@ src/
 <div align="center">
   <sub>📄 Licença MIT • Feito com ❤️ por Luís Maia</sub>
 </div>
-```
